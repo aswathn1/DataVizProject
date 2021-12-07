@@ -1,0 +1,433 @@
+Date,State,Tweet_activity,Popular_Topics
+2020-03-22T00:00Z,Ohio,31,Testing
+2020-03-29T00:00Z,Ohio,76,Testing
+2020-04-05T00:00Z,Ohio,39,Testing
+2020-04-12T00:00Z,Ohio,25,Testing
+2020-04-19T00:00Z,Ohio,32,Testing
+2020-04-26T00:00Z,Ohio,63,Testing
+2020-05-03T00:00Z,Ohio,106,Mask
+2020-05-10T00:00Z,Ohio,101,Mask
+2020-05-17T00:00Z,Ohio,87,Mask
+2020-05-24T00:00Z,Ohio,77,Mask
+2020-05-31T00:00Z,Ohio,98,Mask
+2020-06-07T00:00Z,Ohio,45,Mask
+2020-06-14T00:00Z,Ohio,45,Mask
+2020-06-21T00:00Z,Ohio,69,Mask
+2020-06-28T00:00Z,Ohio,62,Mask
+2020-07-05T00:00Z,Ohio,85,Mask
+2020-07-12T00:00Z,Ohio,79,Mask
+2020-07-19T00:00Z,Ohio,85,Mask
+2020-07-26T00:00Z,Ohio,92,Mask
+2020-08-02T00:00Z,Ohio,72,Mask
+2020-08-09T00:00Z,Ohio,94,Mask
+2020-08-16T00:00Z,Ohio,104,Mask
+2020-08-23T00:00Z,Ohio,105,Mask
+2020-08-30T00:00Z,Ohio,76,Mask
+2020-09-06T00:00Z,Ohio,67,Mask
+2020-09-13T00:00Z,Ohio,41,Mask
+2020-09-20T00:00Z,Ohio,31,Mask
+2020-09-27T00:00Z,Ohio,35,Mask
+2020-10-04T00:00Z,Ohio,23,Mask
+2020-10-11T00:00Z,Ohio,19,Mask
+2020-10-18T00:00Z,Ohio,24,Mask
+2020-10-25T00:00Z,Ohio,34,Mask
+2020-11-01T00:00Z,Ohio,47,Mask
+2020-11-08T00:00Z,Ohio,23,Mask
+2020-11-15T00:00Z,Ohio,43,Mask
+2020-11-22T00:00Z,Ohio,32,Mask
+2020-11-29T00:00Z,Ohio,41,Mask
+2020-12-06T00:00Z,Ohio,49,Mask
+2020-12-13T00:00Z,Ohio,36,Mask
+2020-12-20T00:00Z,Ohio,30,Mask
+2020-12-27T00:00Z,Ohio,30,Mask
+2021-01-03T00:00Z,Ohio,25,Quarantines
+2021-01-10T00:00Z,Ohio,19,Quarantines
+2021-01-17T00:00Z,Ohio,29,Quarantines
+2021-01-24T00:00Z,Ohio,30,Quarantines
+2021-01-31T00:00Z,Ohio,30,Quarantines
+2021-02-07T00:00Z,Ohio,30,Quarantines
+2021-02-14T00:00Z,Ohio,21,Quarantines
+2021-02-21T00:00Z,Ohio,31,Quarantines
+2021-02-28T00:00Z,Ohio,18,Quarantines
+2021-03-07T00:00Z,Ohio,21,Quarantines
+2021-03-14T00:00Z,Ohio,42,Quarantines
+2021-03-21T00:00Z,Ohio,46,Quarantines
+2021-03-28T00:00Z,Ohio,43,Quarantines
+2021-04-04T00:00Z,Ohio,45,Quarantines
+2021-04-11T00:00Z,Ohio,38,Quarantines
+2021-04-18T00:00Z,Ohio,33,Quarantines
+2021-04-25T00:00Z,Ohio,29,Quarantines
+2021-05-02T00:00Z,Ohio,21,Quarantines
+2021-05-09T00:00Z,Ohio,26,Quarantines
+2021-05-16T00:00Z,Ohio,31,Quarantines
+2021-05-23T00:00Z,Ohio,14,Quarantines
+2021-05-30T00:00Z,Ohio,22,Quarantines
+2021-06-06T00:00Z,Ohio,17,Quarantines
+2021-06-13T00:00Z,Ohio,20,Quarantines
+2021-06-20T00:00Z,Ohio,15,Quarantines
+2021-06-27T00:00Z,Ohio,19,Quarantines
+2021-07-04T00:00Z,Ohio,11,Quarantines
+2021-07-11T00:00Z,Ohio,17,Quarantines
+2021-07-18T00:00Z,Ohio,13,Quarantines
+2021-07-25T00:00Z,Ohio,17,Quarantines
+2021-08-01T00:00Z,Ohio,7,Quarantines
+2020-03-22T00:00Z,Kentucky,15,Testing
+2020-03-29T00:00Z,Kentucky,33,Testing
+2020-04-05T00:00Z,Kentucky,12,Testing
+2020-04-12T00:00Z,Kentucky,7,Testing
+2020-04-19T00:00Z,Kentucky,6,Testing
+2020-04-26T00:00Z,Kentucky,11,Testing
+2020-05-03T00:00Z,Kentucky,22,Mask
+2020-05-10T00:00Z,Kentucky,23,Mask
+2020-05-17T00:00Z,Kentucky,26,Mask
+2020-05-24T00:00Z,Kentucky,26,Mask
+2020-05-31T00:00Z,Kentucky,15,Mask
+2020-06-07T00:00Z,Kentucky,9,Mask
+2020-06-14T00:00Z,Kentucky,17,Mask
+2020-06-21T00:00Z,Kentucky,23,Mask
+2020-06-28T00:00Z,Kentucky,22,Mask
+2020-07-05T00:00Z,Kentucky,19,Mask
+2020-07-12T00:00Z,Kentucky,20,Mask
+2020-07-19T00:00Z,Kentucky,28,Mask
+2020-07-26T00:00Z,Kentucky,25,Mask
+2020-08-02T00:00Z,Kentucky,21,Mask
+2020-08-09T00:00Z,Kentucky,27,Mask
+2020-08-16T00:00Z,Kentucky,31,Mask
+2020-08-23T00:00Z,Kentucky,23,Mask
+2020-08-30T00:00Z,Kentucky,18,Mask
+2020-09-06T00:00Z,Kentucky,24,Mask
+2020-09-13T00:00Z,Kentucky,15,Mask
+2020-09-20T00:00Z,Kentucky,12,Mask
+2020-09-27T00:00Z,Kentucky,10,Mask
+2020-10-04T00:00Z,Kentucky,6,Mask
+2020-10-11T00:00Z,Kentucky,7,Mask
+2020-10-18T00:00Z,Kentucky,7,Mask
+2020-10-25T00:00Z,Kentucky,15,Mask
+2020-11-01T00:00Z,Kentucky,23,Mask
+2020-11-08T00:00Z,Kentucky,9,Mask
+2020-11-15T00:00Z,Kentucky,14,Mask
+2020-11-22T00:00Z,Kentucky,10,Mask
+2020-11-29T00:00Z,Kentucky,15,Mask
+2020-12-06T00:00Z,Kentucky,25,Mask
+2020-12-13T00:00Z,Kentucky,23,Mask
+2020-12-20T00:00Z,Kentucky,11,Mask
+2020-12-27T00:00Z,Kentucky,13,Mask
+2021-01-03T00:00Z,Kentucky,10,Quarantines
+2021-01-10T00:00Z,Kentucky,15,Quarantines
+2021-01-17T00:00Z,Kentucky,13,Quarantines
+2021-01-24T00:00Z,Kentucky,9,Quarantines
+2021-01-31T00:00Z,Kentucky,6,Quarantines
+2021-02-07T00:00Z,Kentucky,9,Quarantines
+2021-02-14T00:00Z,Kentucky,15,Quarantines
+2021-02-21T00:00Z,Kentucky,12,Quarantines
+2021-02-28T00:00Z,Kentucky,10,Quarantines
+2021-03-07T00:00Z,Kentucky,10,Quarantines
+2021-03-14T00:00Z,Kentucky,9,Quarantines
+2021-03-21T00:00Z,Kentucky,19,Quarantines
+2021-03-28T00:00Z,Kentucky,11,Quarantines
+2021-04-04T00:00Z,Kentucky,9,Quarantines
+2021-04-11T00:00Z,Kentucky,10,Quarantines
+2021-04-18T00:00Z,Kentucky,10,Quarantines
+2021-04-25T00:00Z,Kentucky,5,Quarantines
+2021-05-02T00:00Z,Kentucky,7,Quarantines
+2021-05-09T00:00Z,Kentucky,2,Quarantines
+2021-05-16T00:00Z,Kentucky,5,Quarantines
+2021-05-23T00:00Z,Kentucky,4,Quarantines
+2021-05-30T00:00Z,Kentucky,4,Quarantines
+2021-06-06T00:00Z,Kentucky,2,Quarantines
+2021-06-13T00:00Z,Kentucky,5,Quarantines
+2021-06-20T00:00Z,Kentucky,2,Quarantines
+2021-06-27T00:00Z,Kentucky,7,Quarantines
+2021-07-04T00:00Z,Kentucky,8,Quarantines
+2021-07-11T00:00Z,Kentucky,5,Quarantines
+2021-07-18T00:00Z,Kentucky,5,Quarantines
+2021-07-25T00:00Z,Kentucky,3,Quarantines
+2021-08-01T00:00Z,Kentucky,2,Quarantines
+2020-03-22T00:00Z,Michigan,20,Testing
+2020-03-29T00:00Z,Michigan,73,Testing
+2020-04-05T00:00Z,Michigan,35,Testing
+2020-04-12T00:00Z,Michigan,12,Testing
+2020-04-19T00:00Z,Michigan,10,Testing
+2020-04-26T00:00Z,Michigan,32,Testing
+2020-05-03T00:00Z,Michigan,60,Testing
+2020-05-10T00:00Z,Michigan,67,Testing
+2020-05-17T00:00Z,Michigan,51,Testing
+2020-05-24T00:00Z,Michigan,51,Testing
+2020-05-31T00:00Z,Michigan,72,Testing
+2020-06-07T00:00Z,Michigan,24,Testing
+2020-06-14T00:00Z,Michigan,53,Testing
+2020-06-21T00:00Z,Michigan,83,Testing
+2020-06-28T00:00Z,Michigan,67,Testing
+2020-07-05T00:00Z,Michigan,57,Testing
+2020-07-12T00:00Z,Michigan,62,Testing
+2020-07-19T00:00Z,Michigan,60,Testing
+2020-07-26T00:00Z,Michigan,49,Testing
+2020-08-02T00:00Z,Michigan,51,Testing
+2020-08-09T00:00Z,Michigan,76,Testing
+2020-08-16T00:00Z,Michigan,69,Testing
+2020-08-23T00:00Z,Michigan,69,Testing
+2020-08-30T00:00Z,Michigan,75,Testing
+2020-09-06T00:00Z,Michigan,63,Testing
+2020-09-13T00:00Z,Michigan,37,Testing
+2020-09-20T00:00Z,Michigan,38,Testing
+2020-09-27T00:00Z,Michigan,34,Testing
+2020-10-04T00:00Z,Michigan,20,Testing
+2020-10-11T00:00Z,Michigan,33,Testing
+2020-10-18T00:00Z,Michigan,43,Testing
+2020-10-25T00:00Z,Michigan,33,Testing
+2020-11-01T00:00Z,Michigan,29,Testing
+2020-11-08T00:00Z,Michigan,29,Testing
+2020-11-15T00:00Z,Michigan,38,Testing
+2020-11-22T00:00Z,Michigan,44,Testing
+2020-11-29T00:00Z,Michigan,41,Testing
+2020-12-06T00:00Z,Michigan,26,Testing
+2020-12-13T00:00Z,Michigan,36,Testing
+2020-12-20T00:00Z,Michigan,28,Testing
+2020-12-27T00:00Z,Michigan,28,Testing
+2021-01-03T00:00Z,Michigan,28,Quarantines
+2021-01-10T00:00Z,Michigan,22,Quarantines
+2021-01-17T00:00Z,Michigan,35,Quarantines
+2021-01-24T00:00Z,Michigan,24,Quarantines
+2021-01-31T00:00Z,Michigan,29,Quarantines
+2021-02-07T00:00Z,Michigan,21,Quarantines
+2021-02-14T00:00Z,Michigan,19,Quarantines
+2021-02-21T00:00Z,Michigan,16,Quarantines
+2021-02-28T00:00Z,Michigan,18,Quarantines
+2021-03-07T00:00Z,Michigan,10,Quarantines
+2021-03-14T00:00Z,Michigan,23,Quarantines
+2021-03-21T00:00Z,Michigan,29,Quarantines
+2021-03-28T00:00Z,Michigan,29,Quarantines
+2021-04-04T00:00Z,Michigan,36,Quarantines
+2021-04-11T00:00Z,Michigan,25,Quarantines
+2021-04-18T00:00Z,Michigan,37,Quarantines
+2021-04-25T00:00Z,Michigan,24,Quarantines
+2021-05-02T00:00Z,Michigan,20,Quarantines
+2021-05-09T00:00Z,Michigan,37,Quarantines
+2021-05-16T00:00Z,Michigan,24,Quarantines
+2021-05-23T00:00Z,Michigan,16,Quarantines
+2021-05-30T00:00Z,Michigan,6,Quarantines
+2021-06-06T00:00Z,Michigan,16,Quarantines
+2021-06-13T00:00Z,Michigan,5,Quarantines
+2021-06-20T00:00Z,Michigan,10,Quarantines
+2021-06-27T00:00Z,Michigan,12,Quarantines
+2021-07-04T00:00Z,Michigan,15,Quarantines
+2021-07-11T00:00Z,Michigan,14,Quarantines
+2021-07-18T00:00Z,Michigan,13,Quarantines
+2021-07-25T00:00Z,Michigan,9,Quarantines
+2021-08-01T00:00Z,Michigan,13,Quarantines
+2020-03-22T00:00Z,Pennsylvania,47,Testing
+2020-03-29T00:00Z,Pennsylvania,130,Testing
+2020-04-05T00:00Z,Pennsylvania,50,Testing
+2020-04-12T00:00Z,Pennsylvania,41,Testing
+2020-04-19T00:00Z,Pennsylvania,26,Testing
+2020-04-26T00:00Z,Pennsylvania,66,Testing
+2020-05-03T00:00Z,Pennsylvania,108,Testing
+2020-05-10T00:00Z,Pennsylvania,103,Testing
+2020-05-17T00:00Z,Pennsylvania,100,Testing
+2020-05-24T00:00Z,Pennsylvania,114,Testing
+2020-05-31T00:00Z,Pennsylvania,101,Testing
+2020-06-07T00:00Z,Pennsylvania,74,Testing
+2020-06-14T00:00Z,Pennsylvania,81,Testing
+2020-06-21T00:00Z,Pennsylvania,120,Testing
+2020-06-28T00:00Z,Pennsylvania,109,Testing
+2020-07-05T00:00Z,Pennsylvania,122,Testing
+2020-07-12T00:00Z,Pennsylvania,97,Testing
+2020-07-19T00:00Z,Pennsylvania,102,Testing
+2020-07-26T00:00Z,Pennsylvania,132,Testing
+2020-08-02T00:00Z,Pennsylvania,109,Testing
+2020-08-09T00:00Z,Pennsylvania,137,Testing
+2020-08-16T00:00Z,Pennsylvania,132,Testing
+2020-08-23T00:00Z,Pennsylvania,129,Testing
+2020-08-30T00:00Z,Pennsylvania,117,Testing
+2020-09-06T00:00Z,Pennsylvania,134,Mask
+2020-09-13T00:00Z,Pennsylvania,77,Mask
+2020-09-20T00:00Z,Pennsylvania,52,Mask
+2020-09-27T00:00Z,Pennsylvania,56,Mask
+2020-10-04T00:00Z,Pennsylvania,44,Mask
+2020-10-11T00:00Z,Pennsylvania,33,Mask
+2020-10-18T00:00Z,Pennsylvania,40,Mask
+2020-10-25T00:00Z,Pennsylvania,44,Mask
+2020-11-01T00:00Z,Pennsylvania,71,Mask
+2020-11-08T00:00Z,Pennsylvania,45,Mask
+2020-11-15T00:00Z,Pennsylvania,56,Mask
+2020-11-22T00:00Z,Pennsylvania,65,Mask
+2020-11-29T00:00Z,Pennsylvania,56,Mask
+2020-12-06T00:00Z,Pennsylvania,57,Mask
+2020-12-13T00:00Z,Pennsylvania,63,Mask
+2020-12-20T00:00Z,Pennsylvania,51,Mask
+2020-12-27T00:00Z,Pennsylvania,61,Mask
+2021-01-03T00:00Z,Pennsylvania,31,Quarantines
+2021-01-10T00:00Z,Pennsylvania,33,Quarantines
+2021-01-17T00:00Z,Pennsylvania,48,Quarantines
+2021-01-24T00:00Z,Pennsylvania,39,Quarantines
+2021-01-31T00:00Z,Pennsylvania,38,Quarantines
+2021-02-07T00:00Z,Pennsylvania,53,Quarantines
+2021-02-14T00:00Z,Pennsylvania,47,Quarantines
+2021-02-21T00:00Z,Pennsylvania,32,Quarantines
+2021-02-28T00:00Z,Pennsylvania,36,Quarantines
+2021-03-07T00:00Z,Pennsylvania,40,Quarantines
+2021-03-14T00:00Z,Pennsylvania,51,Quarantines
+2021-03-21T00:00Z,Pennsylvania,36,Quarantines
+2021-03-28T00:00Z,Pennsylvania,50,Quarantines
+2021-04-04T00:00Z,Pennsylvania,55,Quarantines
+2021-04-11T00:00Z,Pennsylvania,40,Quarantines
+2021-04-18T00:00Z,Pennsylvania,41,Quarantines
+2021-04-25T00:00Z,Pennsylvania,46,Quarantines
+2021-05-02T00:00Z,Pennsylvania,33,Quarantines
+2021-05-09T00:00Z,Pennsylvania,66,Quarantines
+2021-05-16T00:00Z,Pennsylvania,31,Quarantines
+2021-05-23T00:00Z,Pennsylvania,29,Quarantines
+2021-05-30T00:00Z,Pennsylvania,26,Quarantines
+2021-06-06T00:00Z,Pennsylvania,19,Quarantines
+2021-06-13T00:00Z,Pennsylvania,21,Quarantines
+2021-06-20T00:00Z,Pennsylvania,17,Quarantines
+2021-06-27T00:00Z,Pennsylvania,13,Quarantines
+2021-07-04T00:00Z,Pennsylvania,7,Quarantines
+2021-07-11T00:00Z,Pennsylvania,17,Quarantines
+2021-07-18T00:00Z,Pennsylvania,25,Quarantines
+2021-07-25T00:00Z,Pennsylvania,31,Quarantines
+2021-08-01T00:00Z,Pennsylvania,26,Quarantines
+2020-03-22T00:00Z,West Virginia,0,Testing
+2020-03-29T00:00Z,West Virginia,10,Testing
+2020-04-05T00:00Z,West Virginia,3,Testing
+2020-04-12T00:00Z,West Virginia,2,Testing
+2020-04-19T00:00Z,West Virginia,1,Testing
+2020-04-26T00:00Z,West Virginia,1,Testing
+2020-05-03T00:00Z,West Virginia,8,Mask
+2020-05-10T00:00Z,West Virginia,7,Mask
+2020-05-17T00:00Z,West Virginia,5,Mask
+2020-05-24T00:00Z,West Virginia,4,Mask
+2020-05-31T00:00Z,West Virginia,6,Mask
+2020-06-07T00:00Z,West Virginia,3,Mask
+2020-06-14T00:00Z,West Virginia,4,Mask
+2020-06-21T00:00Z,West Virginia,8,Mask
+2020-06-28T00:00Z,West Virginia,5,Mask
+2020-07-05T00:00Z,West Virginia,8,Mask
+2020-07-12T00:00Z,West Virginia,9,Mask
+2020-07-19T00:00Z,West Virginia,12,Mask
+2020-07-26T00:00Z,West Virginia,6,Mask
+2020-08-02T00:00Z,West Virginia,7,Mask
+2020-08-09T00:00Z,West Virginia,3,Mask
+2020-08-16T00:00Z,West Virginia,27,Mask
+2020-08-23T00:00Z,West Virginia,22,Mask
+2020-08-30T00:00Z,West Virginia,27,Mask
+2020-09-06T00:00Z,West Virginia,26,Mask
+2020-09-13T00:00Z,West Virginia,4,Mask
+2020-09-20T00:00Z,West Virginia,4,Mask
+2020-09-27T00:00Z,West Virginia,1,Mask
+2020-10-04T00:00Z,West Virginia,8,Mask
+2020-10-11T00:00Z,West Virginia,3,Mask
+2020-10-18T00:00Z,West Virginia,6,Mask
+2020-10-25T00:00Z,West Virginia,1,Mask
+2020-11-01T00:00Z,West Virginia,3,Mask
+2020-11-08T00:00Z,West Virginia,2,Mask
+2020-11-15T00:00Z,West Virginia,0,Mask
+2020-11-22T00:00Z,West Virginia,2,Mask
+2020-11-29T00:00Z,West Virginia,3,Mask
+2020-12-06T00:00Z,West Virginia,1,Mask
+2020-12-13T00:00Z,West Virginia,5,Mask
+2020-12-20T00:00Z,West Virginia,4,Mask
+2020-12-27T00:00Z,West Virginia,3,Mask
+2021-01-03T00:00Z,West Virginia,0,Quarantines
+2021-01-10T00:00Z,West Virginia,5,Quarantines
+2021-01-17T00:00Z,West Virginia,1,Quarantines
+2021-01-24T00:00Z,West Virginia,4,Quarantines
+2021-01-31T00:00Z,West Virginia,1,Quarantines
+2021-02-07T00:00Z,West Virginia,3,Quarantines
+2021-02-14T00:00Z,West Virginia,2,Quarantines
+2021-02-21T00:00Z,West Virginia,0,Quarantines
+2021-02-28T00:00Z,West Virginia,2,Quarantines
+2021-03-07T00:00Z,West Virginia,3,Quarantines
+2021-03-14T00:00Z,West Virginia,1,Quarantines
+2021-03-21T00:00Z,West Virginia,1,Quarantines
+2021-03-28T00:00Z,West Virginia,4,Quarantines
+2021-04-04T00:00Z,West Virginia,2,Quarantines
+2021-04-11T00:00Z,West Virginia,0,Quarantines
+2021-04-18T00:00Z,West Virginia,2,Quarantines
+2021-04-25T00:00Z,West Virginia,1,Quarantines
+2021-05-02T00:00Z,West Virginia,0,Quarantines
+2021-05-09T00:00Z,West Virginia,6,Quarantines
+2021-05-16T00:00Z,West Virginia,1,Quarantines
+2021-05-23T00:00Z,West Virginia,0,Quarantines
+2021-05-30T00:00Z,West Virginia,1,Quarantines
+2021-06-06T00:00Z,West Virginia,0,Quarantines
+2021-06-13T00:00Z,West Virginia,3,Quarantines
+2021-06-20T00:00Z,West Virginia,2,Quarantines
+2021-06-27T00:00Z,West Virginia,1,Quarantines
+2021-07-04T00:00Z,West Virginia,0,Quarantines
+2021-07-11T00:00Z,West Virginia,0,Quarantines
+2021-07-18T00:00Z,West Virginia,1,Quarantines
+2021-07-25T00:00Z,West Virginia,1,Quarantines
+2021-08-01T00:00Z,West Virginia,2,Quarantines
+2020-03-22T00:00Z,Indiana,19,Testing
+2020-03-29T00:00Z,Indiana,57,Testing
+2020-04-05T00:00Z,Indiana,24,Testing
+2020-04-12T00:00Z,Indiana,10,Testing
+2020-04-19T00:00Z,Indiana,24,Testing
+2020-04-26T00:00Z,Indiana,28,Testing
+2020-05-03T00:00Z,Indiana,76,Mask
+2020-05-10T00:00Z,Indiana,76,Mask
+2020-05-17T00:00Z,Indiana,65,Mask
+2020-05-24T00:00Z,Indiana,72,Mask
+2020-05-31T00:00Z,Indiana,63,Mask
+2020-06-07T00:00Z,Indiana,55,Mask
+2020-06-14T00:00Z,Indiana,45,Mask
+2020-06-21T00:00Z,Indiana,57,Mask
+2020-06-28T00:00Z,Indiana,45,Mask
+2020-07-05T00:00Z,Indiana,47,Mask
+2020-07-12T00:00Z,Indiana,60,Mask
+2020-07-19T00:00Z,Indiana,45,Mask
+2020-07-26T00:00Z,Indiana,63,Mask
+2020-08-02T00:00Z,Indiana,56,Mask
+2020-08-09T00:00Z,Indiana,71,Mask
+2020-08-16T00:00Z,Indiana,54,Mask
+2020-08-23T00:00Z,Indiana,63,Mask
+2020-08-30T00:00Z,Indiana,53,Mask
+2020-09-06T00:00Z,Indiana,44,Testing
+2020-09-13T00:00Z,Indiana,32,Testing
+2020-09-20T00:00Z,Indiana,22,Testing
+2020-09-27T00:00Z,Indiana,20,Testing
+2020-10-04T00:00Z,Indiana,17,Testing
+2020-10-11T00:00Z,Indiana,20,Testing
+2020-10-18T00:00Z,Indiana,20,Testing
+2020-10-25T00:00Z,Indiana,15,Testing
+2020-11-01T00:00Z,Indiana,26,Testing
+2020-11-08T00:00Z,Indiana,11,Testing
+2020-11-15T00:00Z,Indiana,18,Testing
+2020-11-22T00:00Z,Indiana,24,Testing
+2020-11-29T00:00Z,Indiana,30,Testing
+2020-12-06T00:00Z,Indiana,14,Testing
+2020-12-13T00:00Z,Indiana,16,Testing
+2020-12-20T00:00Z,Indiana,12,Testing
+2020-12-27T00:00Z,Indiana,19,Testing
+2021-01-03T00:00Z,Indiana,12,Quarantines
+2021-01-10T00:00Z,Indiana,9,Quarantines
+2021-01-17T00:00Z,Indiana,20,Quarantines
+2021-01-24T00:00Z,Indiana,16,Quarantines
+2021-01-31T00:00Z,Indiana,17,Quarantines
+2021-02-07T00:00Z,Indiana,18,Quarantines
+2021-02-14T00:00Z,Indiana,9,Quarantines
+2021-02-21T00:00Z,Indiana,11,Quarantines
+2021-02-28T00:00Z,Indiana,18,Quarantines
+2021-03-07T00:00Z,Indiana,20,Quarantines
+2021-03-14T00:00Z,Indiana,20,Quarantines
+2021-03-21T00:00Z,Indiana,20,Quarantines
+2021-03-28T00:00Z,Indiana,15,Quarantines
+2021-04-04T00:00Z,Indiana,17,Quarantines
+2021-04-11T00:00Z,Indiana,22,Quarantines
+2021-04-18T00:00Z,Indiana,23,Quarantines
+2021-04-25T00:00Z,Indiana,15,Quarantines
+2021-05-02T00:00Z,Indiana,16,Quarantines
+2021-05-09T00:00Z,Indiana,6,Quarantines
+2021-05-16T00:00Z,Indiana,12,Quarantines
+2021-05-23T00:00Z,Indiana,17,Quarantines
+2021-05-30T00:00Z,Indiana,15,Quarantines
+2021-06-06T00:00Z,Indiana,6,Quarantines
+2021-06-13T00:00Z,Indiana,9,Quarantines
+2021-06-20T00:00Z,Indiana,16,Quarantines
+2021-06-27T00:00Z,Indiana,8,Quarantines
+2021-07-04T00:00Z,Indiana,8,Quarantines
+2021-07-11T00:00Z,Indiana,12,Quarantines
+2021-07-18T00:00Z,Indiana,4,Quarantines
+2021-07-25T00:00Z,Indiana,7,Quarantines
+2021-08-01T00:00Z,Indiana,13,Quarantines
